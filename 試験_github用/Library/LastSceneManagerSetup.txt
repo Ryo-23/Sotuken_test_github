@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "C:/Users/ei1912/Desktop/git hub \u7DF4\u7FD2/Git-hub_Test1/Assets/Scenes/SampleScene.unity"
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
